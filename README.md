@@ -1,7 +1,9 @@
 # url_shortener - pet project сокращатель ссылок
 <p> API для создания сокращенных URL-адресов и управления ими. <br>
   Основная цель этого API — получить полный целевой URL-адрес и вернуть сокращенный URL-адрес. </p>
-![image](https://raw.githubusercontent.com/RivanDev/url_shortener/main/assets/create_url.png)
+
+![](https://raw.githubusercontent.com/RivanDev/url_shortener/main/assets/create_url.png)
+
 
 # Install Dependencies
 ```sh
