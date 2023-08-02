@@ -32,3 +32,8 @@ pip install -r requirements.txt
 ```sh
 uvicorn shortener_app.main:app --reload
 ```
+# Запуск в контейнере:
+```sh
+docker-compose build
+docker-compose up -d
+```
