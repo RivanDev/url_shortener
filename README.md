@@ -34,6 +34,7 @@ uvicorn shortener_app.main:app --reload
 ```
 # Запуск в контейнере:
 ```sh
+Перейдите в папку с проектом (если требуется) - cd url_shortener
 docker-compose build
 docker-compose up -d
 ```
